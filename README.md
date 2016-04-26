@@ -1,4 +1,4 @@
- PA_Experiments
+PA_Experiments
 ---
 #### Pattern-Aware Cache Management Strategy
 Project Pattern implements our novel Pattern-Aware cache management strategy. The file called Requests.csv in directory track is the simulation requests. We test the response time and cache hit ratio of these requests in our experiments.  
